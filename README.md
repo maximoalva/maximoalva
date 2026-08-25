@@ -1,8 +1,8 @@
 <div align="center">
 
-# ¡Hola! Soy Máximo Alva 👋
+# Máximo Alva
 
-### Data Scientist | AI Engineer | University Professor
+### Data Scientist | ML Engineer | Professor
 
 Rosario, Santa Fe, Argentina
 
