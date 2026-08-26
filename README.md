@@ -35,41 +35,41 @@ Rosario, Santa Fe, Argentina
 ## 💻 Lenguajes y herramientas
 
 
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="35" alt="Python" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="35" alt="Jupyter" />
+  <img src="https://cdn.simpleicons.org/jupyter/F37626" height="32" alt="Jupyter" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="35" alt="Pandas" />
+  <img src="https://cdn.simpleicons.org/pandas/150458" height="32" alt="Pandas" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="35" alt="Scikit-Learn" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="32" alt="Scikit-Learn" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="35" alt="OpenCV" />
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="32" alt="OpenCV" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="35" alt="TensorFlow" />
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" height="32" alt="TensorFlow" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="35" alt="LangChain" />
+  <img src="https://cdn.simpleicons.org/langchain/7FC8FF" height="32" alt="LangChain" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/ollama/white" height="35" alt="Ollama" />
+  <img src="https://cdn.simpleicons.org/ollama/white" height="32" alt="Ollama" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="35" alt="SQLite" />
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" height="32" alt="SQLite" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="35" alt="MySQL" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="32" alt="MySQL" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="35" alt="Docker" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="32" alt="Docker" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/fastapi/009688" height="35" alt="FastAPI" />
+  <img src="https://cdn.simpleicons.org/fastapi/009688" height="32" alt="FastAPI" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="35" alt="Cisco" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="32" alt="Cisco" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/github/white" height="35" alt="GitHub" />
+  <img src="https://cdn.simpleicons.org/github/white" height="32" alt="GitHub" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/r/276DC3" height="35" alt="R" />
+  <img src="https://cdn.simpleicons.org/r/276DC3" height="32" alt="R" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="GNUBash" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="32" alt="GNUBash" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="32" alt="HTML5" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/markdown/white" height="35" alt="Markdown" />
+  <img src="https://cdn.simpleicons.org/markdown/white" height="32" alt="Markdown" />
   
 </div>
 
