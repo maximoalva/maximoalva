@@ -67,7 +67,7 @@ Rosario, Santa Fe, Argentina
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="35" alt="GNUBash" />
   &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/html5/#E34F26" height="35" alt="HTML5" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="HTML5" />
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/markdown/white" height="35" alt="Markdown" />
   
