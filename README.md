@@ -20,11 +20,11 @@ Rosario, Santa Fe, Argentina
 
 <div align="center">
   
-## 🚀 Estadísticas de GitHub
+## Estadísticas de GitHub
 
-  <img src="https://streak-stats.demolab.com/?user=maximoalva&count_private=true&theme=tokyonight" alt="Racha de commits" />
+  <img src="https://streak-stats.demolab.com/?user=maximoalva&theme=tokyonight" alt="Racha de commits" />
   <br><br>
-  <img src="https://github-readme-stats-azure-two-36.vercel.app/api/top-langs/?username=maximoalva&layout=compact&count_private=true&theme=tokyonight" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats-azure-two-36.vercel.app/api/top-langs/?username=maximoalva&layout=compact&theme=tokyonight" alt="Lenguajes más usados" />
 
 </div>
 
@@ -32,7 +32,7 @@ Rosario, Santa Fe, Argentina
 
 <div align="center">
   
-## 💻 Lenguajes y herramientas
+## Lenguajes y herramientas
 
 
   <img src="https://cdn.simpleicons.org/python/3776AB" height="32" alt="Python" />
